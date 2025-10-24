@@ -125,7 +125,7 @@ button:hover {
   border-top: 4px;
   border-top-color: black;
   border-top-style: solid;
-  transition: all ease 1s;
+  transition: all ease 0.5s;
 }
 
 /* Flot */
@@ -145,6 +145,7 @@ button:hover {
   width: 240px;
   margin-left: 1px;
 }
+
 
 
 
